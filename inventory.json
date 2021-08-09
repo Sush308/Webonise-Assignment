@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "name": "Sugar",
+            "price": 30.0,
+            "stock_item": 598,
+            "company_name": "Omsai pvt. ltd.",
+            "id": 0
+        },
+        {
+            "name": "Onion",
+            "price": 15.0,
+            "stock_item": 9999,
+            "company_name": "laxmi",
+            "id": 1
+        },
+        {
+            "name": "Potato",
+            "price": 30.0,
+            "stock_item": 3942,
+            "company_name": "Kisan Mart",
+            "id": 2
+        }
+    ]
+}
